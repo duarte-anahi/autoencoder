@@ -12,6 +12,5 @@ Implementación de un autoencoder con TensorFlow/Keras entrenado sobre un datase
 - Autoencoder básico con espacio latente 2D
 - Visualización del espacio latente
 - Denoising autoencoder (eliminación de ruido)
-- Exploración interactiva del espacio latente con emojis
 
 **Tecnologías:** Python · TensorFlow · Keras · NumPy · Matplotlib
